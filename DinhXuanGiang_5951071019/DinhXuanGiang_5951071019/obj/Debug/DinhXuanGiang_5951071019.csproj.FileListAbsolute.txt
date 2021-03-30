@@ -1,0 +1,13 @@
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\bin\Debug\DinhXuanGiang_5951071019.exe.config
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\bin\Debug\DinhXuanGiang_5951071019.exe
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\bin\Debug\DinhXuanGiang_5951071019.pdb
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.csprojAssemblyReference.cache
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.Form1.resources
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.Properties.Resources.resources
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.csproj.GenerateResource.cache
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.csproj.CoreCompileInputs.cache
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.csproj.CopyComplete
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.exe
+D:\Documents\KY6\API\TH1\OpenWeather\DinhXuanGiang_5951071019\DinhXuanGiang_5951071019\obj\Debug\DinhXuanGiang_5951071019.pdb
